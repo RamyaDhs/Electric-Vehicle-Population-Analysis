@@ -1,4 +1,7 @@
-Electric Vehicle Adoption & Trends Dashboard 🚗⚡
+🚗⚡ Electric Vehicle Adoption & Trends Dashboard 
+
+
+
 📌 Project Overview
 
 This Power BI project analyzes Electric Vehicle (EV) adoption trends across states, manufacturers, and vehicle types to understand growth patterns, adoption rates, and key metrics driving the EV revolution.
