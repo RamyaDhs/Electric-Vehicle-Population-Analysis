@@ -1,6 +1,6 @@
 🚗⚡ Electric Vehicle Adoption & Trends Dashboard 
 
-
+![Dashboard](images/image.png)
 
 📌 Project Overview
 
